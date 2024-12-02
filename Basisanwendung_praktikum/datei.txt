@@ -1,0 +1,1 @@
+Fahrrad1;typ;32;kind;27
